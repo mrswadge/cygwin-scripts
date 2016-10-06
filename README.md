@@ -15,4 +15,6 @@ When java does a garbage collection it can pause all threads. This script quickl
 Requires: *find*, *xargs*, *sort*, *cut* and *head*
 
 Outputs the ten most recently changed files in the directory provided and any sub-directories.
-Example usage: ``$ recentlymodified.sh /path/to/directory``
+
+### Example Usage ###
+    $ recentlymodified.sh /path/to/directory
